@@ -1,6 +1,6 @@
 # Three.js test
 
-[](image/2020-06-26_17-57-22.png)
+![](image/2020-06-26_17-57-22.png)
 
 ## dev
 nose.js v10.16.3

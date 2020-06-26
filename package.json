@@ -1,0 +1,24 @@
+{
+  "name": "threejs_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel app/index.html",
+    "build": "parcel build app/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-asset-copier": "^1.1.0",
+    "stylus": "^0.54.7"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.10.1",
+    "reset-css": "^5.0.1",
+    "three": "^0.118.1"
+  },
+  "assetsPath": "app/assets"
+}
